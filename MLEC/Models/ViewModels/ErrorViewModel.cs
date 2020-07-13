@@ -1,6 +1,6 @@
 using System;
 
-namespace MLEC.Models
+namespace MLEC.Models.ViewModels
 {
     public class ErrorViewModel
     {
